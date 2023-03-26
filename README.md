@@ -75,7 +75,7 @@ The database used is “mydb” and the table used is “Pet”. The details of 
 
 
 
-fUTURE EXPANSION
+FUTURE EXPANSION
 
 - The accessories and pet food can be added in the menu.
 
